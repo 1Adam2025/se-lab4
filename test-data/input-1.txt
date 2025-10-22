@@ -1,0 +1,4 @@
+# Testing fires primary first
+# Create a ship with torpedo stores where second is always fail
+GT4500,10,0,10,1
+TORPEDO,SINGLE

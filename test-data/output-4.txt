@@ -1,0 +1,3 @@
+#Skips failed launcher
+SUCCESS#<-GT
+FAIL#<-PRIMARY
