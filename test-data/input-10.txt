@@ -1,0 +1,5 @@
+#Testing firemode all when only one torpedo is loaded
+GT4500,0,0,1,0
+TORPEDO,ALL
+GT4500,1,0,0,0
+TORPEDO,ALL
